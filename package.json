@@ -1,0 +1,25 @@
+{
+  "name": "sharebox",
+  "version": "1.0.0",
+  "description": "API Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhuvaneswari-api/sharebox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhuvaneswari-api/sharebox/issues"
+  },
+  "homepage": "https://github.com/bhuvaneswari-api/sharebox#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "fetch": "^1.1.0",
+    "mocha": "^6.2.0",
+    "should": "^13.2.3"
+  }
+}
