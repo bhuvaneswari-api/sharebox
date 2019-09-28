@@ -1,0 +1,6 @@
+{
+    "service": {
+        "baseUrl": "https://ec2-13-232-224-131.ap-south-1.compute.amazonaws.com/sharebox/api",
+        "token": "bc6de11d-86ac-4071-8d73-c4e2fc083b6d"
+    }
+}
