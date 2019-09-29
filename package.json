@@ -4,7 +4,7 @@
   "description": "API Automation",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/mocha shareBoxTests/TestCases.js"
+    "test": "./node_modules/.bin/mocha shareBoxTests/TestCases.spec.js"
   },
   "repository": {
     "type": "git",
